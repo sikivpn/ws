@@ -13,12 +13,12 @@ ver=$VERSION_ID
 
 #detail nama perusahaan
 country="MY"
-state="Sabah"
-locality="Kota Kinabalu"
-organization="@Norulezzx"
-organizationalunit="@Norulezzx"
-commonname="DIY_VPN"
-email="admin@d-vpn.com"
+state="gabah"
+locality="Kota pandeglang"
+organization="@sikivpn"
+organizationalunit="@sikivpn"
+commonname="sikivpn"
+email="sikihuut@gmail.com"
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/${GitUser}/ws/main/password"
