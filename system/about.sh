@@ -38,7 +38,7 @@ gl='\e[32;1m'
 clear
 echo ""
 echo -e "SCRIPT" | lolcat
-figlet " BY  V - Code" | lolcat
+figlet " BY  SIKIVPN" | lolcat
 echo -e "\e[32;1m.-----------------------------------------------.\e[0m"
 echo -e "\e[32;1m|               \e[36;1mINFO SCRIPT VPS\e[0m                 \e[32;1m|\e[0m"
 echo -e "\e[32;1m'-----------------------------------------------'\e[0m"

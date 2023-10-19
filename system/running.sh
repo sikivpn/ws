@@ -3,7 +3,7 @@ red="\e[1;31m"
 green="\e[0;32m"
 NC="\e[0m"
 clear
-GitUser="DryanZ"
+GitUser="sikivpn"
 # VPS Information
 Checkstart1=$(ip route | grep default | cut -d ' ' -f 3 | head -n 1);
 if [[ $Checkstart1 == "venet0" ]]; then 
@@ -125,7 +125,7 @@ echo -e "\e[32mloading...\e[0m"
 clear
 echo -e ""
 echo -e "Your VPS Information :"
-echo -e "\e[0;32mSCRIPT VPS BY V-CODE\e[0m"
+echo -e "\e[0;32mSCRIPT VPS BY SIKIVPN\e[0m"
 echo "-----------------------------------------------------------"
 echo "Operating System Information :"
 echo -e "VPS Type    : $typevps"
@@ -382,4 +382,4 @@ fi
 echo -e "\e[0;34m-----------------------------------------------------------\e[0m"
 echo -e ""
 echo -e "${green}JIKA TERDAPAT NOT RUNNING, PLEASE REPORT TO ADMIN FOR FIX$NC"
-echo -e "${green}Report to DIYVPN @NORULEZZx$NC"
+echo -e "${green}Report to sikivpn @sikivpn$NC"
