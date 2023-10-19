@@ -1,7 +1,7 @@
 #!/bin/bash
 #wget https://github.com/${GitUser}/
 GitUser="sikivpn"
-#Open HTTP Puncher By DIYVPN
+#Open HTTP Puncher By sikivpn
 #Direct Proxy Squid For OpenVPN TCP
 RED='\e[1;31m'
 GREEN='\e[0;32m'
