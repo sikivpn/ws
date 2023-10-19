@@ -3,7 +3,7 @@
 GitUser="sikivpn"
 #IZIN SCRIPT
 MYIP=$(curl -sS ipv4.icanhazip.com)
-GitUser="DryanZ"
+GitUser="sikivpn"
 # Valid Script
 VALIDITY () {
     today=`date -d "0 days" +"%Y-%m-%d"`
